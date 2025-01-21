@@ -1,3 +1,3 @@
 # ShatTools
-[English](README.md) [中文](README_zh.md)
-> 一个小工具
+[English](README.md) [涓枃](README_zh.md)
+> 涓�涓皬宸ュ叿
