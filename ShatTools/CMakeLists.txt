@@ -3,7 +3,7 @@
 #
 
 # 将源代码添加到此项目的可执行文件。
-add_executable (ShatTools "ShatTools.cpp" "ShatTools.h")
+add_executable (ShatTools "ShatTools.cpp" "ShatTools.h" "messages.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET ShatTools PROPERTY CXX_STANDARD 20)

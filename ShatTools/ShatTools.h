@@ -5,4 +5,10 @@
 
 #include <iostream>
 
+#include<string>
+
+#include "messages.h"
+
+#define elif else if
+
 // TODO: 在此处引用程序需要的其他标头。
